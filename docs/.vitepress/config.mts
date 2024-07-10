@@ -17,7 +17,7 @@ export default defineConfig({
   extends: blogTheme,
   // base,
   lang: 'zh-cn',
-  title: '@sugarat/theme',
+  title: '繁星点点',
   description: '记录点点滴滴',
   lastUpdated: true,
   // 详见：https://vitepress.dev/zh/reference/site-config#head
