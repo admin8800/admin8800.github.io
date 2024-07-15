@@ -54,15 +54,15 @@ const blogTheme = getThemeConfig({
       nickname: '繁星点点',
       des: '你的指尖用于改变世界的力量',
       avatar:
-        'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
+        'https://avatars.githubusercontent.com/u/153331261?v=4',
       url: 'https://admin8800.github.io',
     },
     {
-      nickname: 'Vitepress',
-      des: 'Vite & Vue Powered Static Site Generator',
+      nickname: '友情链接二',
+      des: '一个简单的友情链接描述，链接到Github',
       avatar:
-        'https://vitepress.dev/vitepress-logo-large.webp',
-      url: 'https://vitepress.dev/',
+        '/public/logo.png',
+      url: 'https://github.com',
     },
   ],
 })
