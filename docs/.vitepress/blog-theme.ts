@@ -61,7 +61,7 @@ const blogTheme = getThemeConfig({
       nickname: '友情链接二',
       des: '一个简单的友情链接描述，链接到Github',
       avatar:
-        '/public/logo.png',
+        'https://user-images.githubusercontent.com/7486508/31890201-e067b48c-b834-11e7-858c-ad7a1d2b54ef.jpeg',
       url: 'https://github.com',
     },
   ],
