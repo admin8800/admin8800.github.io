@@ -1,6 +1,6 @@
 ---
-description: 文章描述
-title: 文章标题
+description: 文章简介描述二
+title: 示例文章二
 readingTime: false
 tag:
  - 文章
